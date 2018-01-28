@@ -5,5 +5,5 @@ Feeds a function with logarithmically increasing input size and tabulates the re
 
 ## Current capabilities:
 
-* A functions that consumes a list. 
+* A function that consumes a list. 
 
