@@ -1,6 +1,6 @@
 """Carry-out a Big-O analysis by feeding a growing input."""
 
-def analyse(func):
+def analyze(func):
     from timeit import default_timer as timer
     import math
     timeConsumedBefore = 1
